@@ -23,10 +23,9 @@ author:  # change following line to your infomation.
   skill_icon1:
     - name: fa-coffee
     - name: fa-code
-    - name: fa-leaf
   skill_icon2:
     - name: fa-cloud
-    - name: icon-apache
+    - name: fa-leaf
   desc: Introduce myself will be here.  # Describe yourself.
 
 # comment

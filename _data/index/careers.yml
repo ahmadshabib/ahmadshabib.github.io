@@ -1,29 +1,29 @@
 - name:
     detail: DigiSecure
-    i18n: company_ks
+    i18n: company_ds
   desc:
     detail: Working on complex and on larger scale projects started in this company for me. There i was working on forensafe project’s back-end side, and parsed artifacts on android platform, also working on POC level Android evidence acquisition tool.
-    i18n: company_ks_desc
+    i18n: company_ds_desc
   date:
     detail: Jun. 2017
-    i18n: company_ks_date
+    i18n: company_ds_date
   job:
     detail: Mobile investigator and Software Developer
-    i18n: company_ks_job
+    i18n: company_ds_job
   icon: fa-plus-square
 
 - name:
     detail: Wikisoft
-    i18n: company_ssa
+    i18n: company_ws
   desc:
     detail: During my time at Wikisoft i Worked on Kinect based project that translate sign language into spoken language using image processing algorithms.
-    i18n: company_ssa_desc
+    i18n: company_ws_desc
   date:
     detail: Jan. 2017
-    i18n: company_ssa_date
+    i18n: company_ws_date
   job:
     detail: Software Developer
-    i18n: company_ssa_job
+    i18n: company_ws_job
   icon: fa-plus-square
 
 - name:

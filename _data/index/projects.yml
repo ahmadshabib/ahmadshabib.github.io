@@ -13,7 +13,7 @@
   desc: Forensafe is a computer and mobile forensics tool used by investigators in digital crime and fraud cases.
 
 - name: Sign Language Translation Software
-  i18n: Sign Language Translation Software
+  i18n: signLanguageTranslationSoftware
   gh_user:
   repo:
   img: /static/assets/img/landing/Signlanguagetranslater.png
