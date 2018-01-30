@@ -1,0 +1,44 @@
+{
+  "website":{
+    "title": "Abed Hadri Blogu"
+  },
+  "nav":{
+    "home": "Ana Sayfa",
+    "about_me": "Hakkımda",
+    "skills": "Yetenekler",
+    "projects": "Projeler",
+    "career": "İş Tecrübesi",
+    "blog": "Blog",
+    "link": "Bağlantılar"
+  },
+  "about_me":{
+    "about_me": "Hakkımda",
+    "des": "Yazılım sektörüne 2 yıl önce Full stack developer olarak girdikten sonra büyük projeler yapmaya başardım. Şuan planlarımı genişletmek adına Istanbul'a taşınmak için fırsat arıyorum."
+  },
+  "skills":{
+    "my_skills": "Yeteneklerim"
+  },
+  "projects":{
+    "my_projects": "Projelerim",
+    "keybusiness": "Web tabanlı ERP projesidir. Kullanılan teknolojiler: Java Spring-Boot , Hibernate , MySQL veritabanı. Frontend'de ise Angular 4 kullanılmıştır.",
+    "paracent": "Web tabanlı çok katlı ağ pazarlama ve kazanç paylaşım sistemidir. Java Jersey , MySQL database yönetim sitemi olarak , ilaveten JQuery + vanilla JS frontend'de kullanılmıştır.",
+    "wru": "Android Kişi takip (özellikle çocuklar) uygulamasıdır. Java Jersey backend için ve MySQL veritaban yönetimi için kullanılmıştır ilave olarak Android(Java) ve Google Maps API'yi kullanarak geliştirilmiştir."
+  },
+  "career":{
+    "my_career": "İş Tecrübem",
+    "company_ks_date": "Ağu. 2016",
+    "company_ks_desc": "30 yıllık yazılım sektöründe yer alan KeySoft şirketinde çalışmak büyük bir katkısı olmuştu. İleri seviyede ve karmaşık projelerin yazma yeteneğini kazanılması bu şirkette gerçekleşmiştir.",
+    "company_art_desc":"İşe başlamak ve profesyonel bilgileri almak bu şirkette gerçekleşti. Basit işlerden başalyıp daha karmaşık olana geçiş yapmak zor olmasına rağmen gayet iyi ve faydalı olmuştur başlangıcım için.",
+    "company_art_date":"Ocak. 2016",
+    "company_ssa_date":"Haz. 2016",
+    "company_ssa_desc":"Uluslararası ve dünyanın bir çok yerinde şubesi olan şirkette kısa bir sürede bulunmak büyük bir katkısı olabilir. Uluslararası standartlara göre ve birçok yeni teknoloji ile tanışmak bu şirketteki uzamanların sayesinde gerçekleşti."
+  },
+  "blog":{
+    "my_blog": "My Blog"
+  },
+  "link":{
+    "link": "Link",
+    "view": "views"
+  }
+
+}

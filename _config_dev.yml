@@ -1,0 +1,6 @@
+# Website settings
+title: Ahmad Shabib dev
+baseurl:
+url: http://localhost:4000
+img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+avatar: localhost:4000/static/assets/img/landing/avatar.jpg

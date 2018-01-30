@@ -1,0 +1,45 @@
+{
+  "website":{
+    "title": "Abed's blog"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "blog": "Blog",
+    "link": "Links"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "A passionate Full stack developer with big dreams and ambitions. Writing and structuring quality code is a not just a source of living; it is the thing that excites me and pulls me away from this world. Apart from software I enjoy travelling and playing some guitar!"
+  },
+  "skills":{
+    "my_skills": "Skills"
+  },
+  "projects":{
+    "my_projects": "Projects",
+    "keybusiness": "A web ERP project that was built using Java Spring-Boot , Hibernate , MySQL database and Angular 4 on the frontend.",
+    "paracent": "A network marketing project with sales , profit sharing .. etc. It was built with Java Jersey , MySQL as a database and JQuery + vanilla JS on the frontend.",
+    "wru": "An android application to locate contacts and specifically children. built with Java Jersey and MySQL on the database in addition to Android(Java)."
+  },
+  "career":{
+    "my_career": "Career",
+    "company_ks_date": "Aug. 2016",
+    "company_ks_desc": "Working on complex and on larger scale projects started in this company for me. more than 30 years in software industry meant alot of experince to be added to me. Java with spring and JAX-RS frameworks in addition to Angular 4 were only some of technologies I could learn.",
+    "company_art_desc":"Working in ART software was the beginning in software industry for me. PHP , CSS and HTML in addition to simple JS where the technologies where used to give the first spark to my career.",
+    "company_art_date":"Jan. 2016",
+    "company_ssa_date":"Jun. 2016",
+    "company_ssa_desc":"Working as an intern in this international company was a great opportunity to give a great push to my skills and knowledge. I could have so much valuable knowledge and add it too my toolbox."
+
+  },
+  "blog":{
+    "my_blog": "My Blog"
+  },
+  "link":{
+    "link": "Link",
+    "view": "views"
+  }
+
+}
