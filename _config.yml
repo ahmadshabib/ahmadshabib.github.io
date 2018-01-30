@@ -24,9 +24,9 @@ author:  # change following line to your infomation.
     - name: fa-coffee
     - name: fa-code
   skill_icon2:
-    - name: fa-cloud
     - name: fa-leaf
-  desc: Introduce myself will be here.  # Describe yourself.
+    - name: fa-cloud
+  desc: Software Developer with a demonstrated history of working in the computer industry. Skilled in Java and Python,with a Bachelor’s Degree focused in Computer Engineering from Çukurova Üniversitesi.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
