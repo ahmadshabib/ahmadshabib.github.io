@@ -1,14 +1,43 @@
 - name:
+    detail: Amadeus
+    i18n: company_ds
+  desc:
+    detail: Part of DevSup unit, which is responsible for CI/CD process, back-end development , tooling and automation.
+    i18n: company_ds_desc
+  date:
+    detail: Dec. 2018
+    i18n: company_ds_date
+  job:
+    detail: Software Engineer
+    i18n: company_ds_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Enuygun
+    i18n: company_ds
+  desc:
+    detail: Part of mobile development team which was responsible for the development of Enuygun's android application v3 which wasbuilt from scratch.
+    i18n: company_ds_desc
+  date:
+    detail: Jun. 2018
+    i18n: company_ds_date
+  job:
+    detail: Android Developer
+    i18n: company_ds_job
+  icon: fa-plus-square
+
+- name:
     detail: DigiSecure
     i18n: company_ds
   desc:
-    detail: Working on complex and on larger scale projects started in this company for me. There i was working on forensafe project’s back-end side, and parsed artifacts on android platform, also working on POC level Android evidence acquisition tool.
+    detail: Part of back-end development team where i was responsable for development and maintenance of android based artifacts using Java and Analyzing the data parsed within the artifacts.
     i18n: company_ds_desc
   date:
     detail: Jun. 2017
     i18n: company_ds_date
   job:
-    detail: Mobile investigator and Software Developer
+    detail: Software Engineer
     i18n: company_ds_job
   icon: fa-plus-square
 
@@ -36,6 +65,6 @@
     detail: Jan. 2016
     i18n: company_art_date
   job:
-    detail: Web Developer
+    detail: Jr.Software Engineer
     i18n: company_art_job
   icon: fa-plus-square

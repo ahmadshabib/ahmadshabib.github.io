@@ -13,16 +13,13 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "Software Developer with a demonstrated history of working in the computer industry. Skilled in Java and Python,with a Bachelor’s Degree focused in Computer Engineering from Çukurova Üniversitesi."
+    "des": "Software Developer / DevOps"
   },
   "skills":{
     "my_skills": "Skills"
   },
   "projects":{
-    "my_projects": "Projects",
-    "forensafe": "Forensafe is a computer and mobile forensics tool used by investigators in digital crime and fraud cases.",
-    "signLanguageTranslationSoftware": "An application that aimed to help deaf people which analizes the sign a deaf person make and convert it into speaken language, Developed using C# for back-end and windows forms for front-end.",
-    "keybusiness": "A web ERP project that was built using Java Spring-Boot , Hibernate , MySQL database and Angular 4 on the frontend."
+    "my_projects": "Projects"
   },
   "career":{
     "my_career": "Career"

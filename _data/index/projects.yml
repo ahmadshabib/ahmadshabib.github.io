@@ -2,19 +2,13 @@
   i18n: keybusiness
   gh_user: abedhadri
   repo: keybusiness
-  img: /static/assets/img/landing/keybusiness.png
+  img:
   desc: A web ERP project that was built using Java Spring-Boot , Hibernate , MySQL database and Angular 4 on the frontend.
 
-- name: Forensafe
-  i18n: forensafe
-  gh_user:
-  repo:
-  img: /static/assets/img/landing/forensafe.png
-  desc: Forensafe is a computer and mobile forensics tool used by investigators in digital crime and fraud cases.
+- name: CheckStyle
+  i18n: checkstyle
+  gh_user: checkstyle
+  repo: checkstyle
+  img:
+  desc: Made few contirbution to the library, which is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. I
 
-- name: Sign Language Translation Software
-  i18n: signLanguageTranslationSoftware
-  gh_user:
-  repo:
-  img: /static/assets/img/landing/Signlanguagetranslater.png
-  desc: An application that aimed to help deaf people which analizes the sign a deaf person make and convert it into speaken language, Developed using C# for back-end and windows forms for front-end .
